@@ -46,3 +46,20 @@ Dan seperti biasa kita akan melihat hasilnya :
 ![Gambar](Gambar/gambar10.png)<br>
 
 Sekian dari saya , kita lanjut di seksi pertemuan berikutnya. Terima kasih
+
+# Jawaban Dari Soal Tugas
+
+![Gambar](Gambar/gambar11.png)<br>
+![Gambar](Gambar/gambar12.png)<br>
+![Gambar](Gambar/gambar13.png)<br>
+
+Dan Hasilnya :
+
+
+![Gambar](Gambar/gambar14.png)<br>
+
+    Keterangan:
+        Untuk Kelas kalian bisa memilih salah satu dari banyaknya pilihan
+        Lalu untuk Ekskul kalian bisa memilih lebih dari satu dengan cara kalian menekan tombol ctrl pada keyboard laptop kalian
+
+Sekian dari saya terimakasih
